@@ -42,8 +42,11 @@ ThunderBolt Ports: N/A
 1. From a real Mac or VM, Get the Install macOS xxx.app. Google it for details (xxx is the version of macOS you want to install on your non-mac PC)
 2. Put the app to /Applications
 3. Insert a USB to Mac or VM and connect it. Take note of the USB name. 
+
 4-1. execute "sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/(Your USB device name) (If you want to install macOS Catalina)
+
 4-2. execute "sudo /Applications/Install\ macOS\ Big\ Sur\ Beta.app/Contents/Resources/createinstallmedia --volume /Volumes/(Your USB device name) (If you want to install macOS Big Sur Beta)
+
 5. Enter password of root (WARNING: THIS WILL WIPE DATA ON THE SELECTED DRIVE. BE EXTRA CAREFUL)
 6. Wait until the making of bootable macOS Drive finishs 
 7. Mount the USB's EFI using ESP Mounter Pro or any other EFI mounter, copy and paste the EFI Folder in releases page. (Note : the structure should be /EFI/EFI/OC, /EFI/EFI/BOOT)
