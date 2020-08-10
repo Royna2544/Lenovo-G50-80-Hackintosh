@@ -43,4 +43,4 @@ ThunderBolt Ports: N/A
 13. If it was successful, the mac setup screen will appear. 
 
 
-# If you encounter any problems during install, or there;s something that doesn't work, please open a new issue with photos.
+# If you encounter any problems during install, or there is something that doesn't work, please open a new issue with photos.
