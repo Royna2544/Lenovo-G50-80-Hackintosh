@@ -37,7 +37,7 @@ ThunderBolt Ports: N/A
 . I lost it
 8. SSD/HDD : Fully Working
 9. USB : Fully Working
-10. Bluetooth & WiFi : Doesn't work. I may have to find some kexts for them to work.
+10. Bluetooth & WiFi : Working. For Catalina and older
 # Installation
 1. From a real Mac or VM, Get the Install macOS xxx.app. Google it for details (xxx is the version of macOS you want to install on your non-mac PC)
 2. Put the app to /Applications
