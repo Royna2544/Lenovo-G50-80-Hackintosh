@@ -18,7 +18,7 @@ Disk: WD Green SSD 240GB
 
 Ethernet: Realtek RTL8168GU/8111GU PCI Express Gigabit Ethernet
 
-Wifi: Qualcomm Atheros AR9565 Wireless Network Adapter (Currently not working)
+Wifi: Qualcomm Atheros AR9565 Wireless Network Adapter (See HowToEnableQcomAtherosWiFi.md)
 
 Bluetooth: Qualcomm Atheros Bluetooth 4.0 (Currently not working)
 
