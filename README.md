@@ -1,4 +1,4 @@
-# Lenovo-G50-80-Opencore-v0.6.1-debug
+# Lenovo-G50-80-Opencore-v0.6.2(Offical Ver.)
 # Introduction
 This is the EFI folder for installing hackintosh in Lenovo G50-80. I made it from scratch. For people who want to know how to make the EFI folder for their computer, refer to the wiki (Will be added ASAP)
 # Lenovo G50-80 Basic Specs:
