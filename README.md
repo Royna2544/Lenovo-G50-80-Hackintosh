@@ -1,4 +1,4 @@
-# Lenovo-G50-80-Opencore-v0.6.2(Offical Ver.)
+# Lenovo-G50-80-Opencore-v0.6.4(Offical Ver.)
 # Introduction
 This is the EFI folder for installing hackintosh in Lenovo G50-80. I made it from scratch. For people who want to know how to make the EFI folder for their computer, refer to the wiki (Will be added ASAP)
 # Lenovo G50-80 Basic Specs:
@@ -45,7 +45,7 @@ ThunderBolt Ports: N/A
 
 4-1. execute "sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/(Your USB device name) (If you want to install macOS Catalina)
 
-4-2. execute "sudo /Applications/Install\ macOS\ Big\ Sur\ Beta.app/Contents/Resources/createinstallmedia --volume /Volumes/(Your USB device name) (If you want to install macOS Big Sur Beta)
+4-2. execute "sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/(Your USB device name) (If you want to install macOS Big Sur)
 
 5. Enter password of root (WARNING: THIS WILL WIPE DATA ON THE SELECTED DRIVE. BE EXTRA CAREFUL)
 6. Wait until the making of bootable macOS Drive finishs 
